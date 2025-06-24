@@ -4,12 +4,13 @@ All the R codes used in the Uncovering the Tumorigenic Blueprint of PFOS and PFO
 study
 
 ## Files
-1. DeSeq
+1. DeSeq: RNA sequencing workflow
 
-2. GSEA
+2. GSEA: Gene set enrichment analysis using KEGG database
 
-3. Biomarkers
+3. Biomarkers: Stouffer integration method used to determine top DEGs + biomarker figures.  
 
-4. Concentration-Dependent Response
+4. Concentration-Dependent Response: Analysis + figures of concentration dependent response of PFOS/PFOA exposed human liver samples
 
-5. Figures
+5. Heatmap Plot Script: Code used for creating heatmap figures
+   
